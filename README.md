@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankit Upadhaya
 - 👨‍🎓 Currently Studying in National Institute of Technology,Silchar.
-- 👀 I’m interested in web development and machine learning
+- 👀 I’m interested in web development and cp
 - 🌱 I’m currently learning C and C++ and Python
 - 📫 You can reach me at ankitupadhaya07@gmail.com
 
